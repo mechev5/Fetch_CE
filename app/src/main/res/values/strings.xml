@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fetch_CE</string>
+    <string name="id_col">id</string>
+    <string name="listid_col">listId</string>
+    <string name="name_col">name</string>
+</resources>
